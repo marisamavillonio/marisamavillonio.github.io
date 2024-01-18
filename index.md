@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the University of Pisa where I am enrolled in the Phd Program in cdoasdoasdadasdasfsadf
 
 ## Research Interests
 
