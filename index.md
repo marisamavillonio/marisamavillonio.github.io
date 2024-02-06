@@ -29,6 +29,4 @@ Afterwards I won a fellowship at the Sant’ Anna School of Advanced Studies, Pi
 - **[Jan. 2024]** Text as Data: A Comprehensive Literature Review of Natural Language Processing in Finance  
 - **[Nov. 2023]** Textual Representation of Business Plans and Firm Success
 
-#{% include_relative _includes/publications.md %}
 
-######{% include_relative _includes/services.md %}
