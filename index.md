@@ -30,3 +30,6 @@ Afterwards I won a fellowship at the Sant’ Anna School of Advanced Studies, Pi
 - **[Nov. 2023]** Textual Representation of Business Plans and Firm Success
 
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
